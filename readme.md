@@ -29,7 +29,7 @@
 
 ### 2.点开网址
 
-![image-20240910180326171](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910180326171.png)
+![image-20240910180326171](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910180326171.6wqoghir9t.webp)
 
 ### 3.创建你的副本
 
