@@ -35,11 +35,11 @@
 
 #### 3.1 fork一下
 
-![image-20240910180439584](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910180439584.png)
+![image-20240910180439584](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910180439584.99taxowkgl.webp)
 
 #### 3.2 点击绿色按钮
 
-![image-20240910180453700](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910180453700.png)
+![image-20240910180453700](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910180453700.8l01do91g7.webp)
 
 然后你就得到了你的分支
 
@@ -47,7 +47,7 @@
 
 #### 4.1 打开img文件夹
 
-![image-20240910180628204](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910180628204.png)
+![image-20240910180628204](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910180628204.7ljy0i6aag.webp)
 
 #### 4.2 选择你的分类
 
@@ -57,47 +57,47 @@
 
 3.上传自己的奖，点击own_honor
 
-![image-20240910180827489](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910180827489.png)
+![image-20240910180827489](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910180827489.969ozz3hr0.webp)
 
 #### 4.3 以上传own_honor为例
 
 #####  4.3.1 创建一个以自己名字的文件夹
 
-![image-20240910180922184](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910180922184.png) 
+![image-20240910180922184](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910180922184.86tlmt0ql9.webp) 
 
 首先输入自己的`名字`，然后在后面加上`/`，之后随便输入一个字符（创建一个无用的文件夹)
 
-![image-20240910181030480](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910181030480.png)
+![image-20240910181030480](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910181030480.6pngl1wlun.webp)
 
  点击右上角(Commit changes)，
 
-![image-20240910181138371](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910181138371.png)
+![image-20240910181138371](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910181138371.41y0ap3kio.webp)
 
-![image-20240910181226924](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910181226924.png)
+![image-20240910181226924](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910181241500.5xal3bg04j.webp)
 
 点击绿色Commit changes，就可以获得一个文件夹。
 
-![image-20240910181241500](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910181241500.png)
+![image-20240910181241500]()
 
 ##### 4.3.2 上传
 
 ###### 4.3.2.1 点击upload files，拖动到当前文件夹下面/点击蓝色链接（choose your files)，然后找到照片。
 
-![image-20240910181956926](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910181956926.png)
+![image-20240910181956926](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910181956926.lvoiltxfi.webp)
 
 ###### 4.3.2.2 打开你要上传的照片，全部选中，拖动到当前文件夹下面
 
-![image-20240910181456817](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910181456817.png)
+![image-20240910181456817](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910181456817.7i0c2sd7l2.webp)
 
 然后等待一会，就会获得如下界面：
 
 点击Commit change
 
-![image-20240910181554498](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910181554498.png)
+![image-20240910181554498](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910181554498.6m3unc3j54.webp)
 
 在你的副本中，文件已经上传成功：
 
-![image-20240910181738294](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910181738294.png)
+![image-20240910181738294](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910181738294.6m3unc3j58.webp)
 
 ### 其他上传
 
@@ -107,35 +107,36 @@
 
 当你把所有照片都上传完毕后，点击pull requests
 
-![image-20240910182142966](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910182142966.png)
+![image-20240910182142966](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910182142966.5tqz5lmxds.webp)
 
 点击New pull request
 
-![image-20240910182239739](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910182239739.png)
+![image-20240910182239739](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910182239739.7p8rqlmkh.webp)
 
 你可以看到你的修改内容，然后点击Create pull request
 
-![image-20240910182319565](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910182319565.png)
+![image-20240910182319565](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910182319565.1e8k0caj5v.webp)
 
 在add a title&add a desctiption里面，点击Create pull request
 
-![image-20240910182454552](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910182454552.png)
+![image-20240910182454552](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910182454552.8l01do91fp.webp)
 
 然后你就给我发送了一个请求。
 
-![image-20240910182542330](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910182542330.png)
+![image-20240910182542330](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910182542330.3uusf9hf2f.webp)
 
 然后我就会收到一个邮件：
 
-![image-20240910182644623](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910182644623.png)
+![image-20240910182644623](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910182644623.1ovdthprbd.webp)
 
 我就会收到一份审核申请：
 
-![image-20240910182706712](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910182706712.png)
+![image-20240910182706712](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910182706712.5mnra60ryj.webp)
+接下来我如果通过审核，你就加入了我的贡献组，上传（可能）就可以直接上传了。
 
 ### 5.最重要的一步
 
-![image-20240910182909130](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240910182909130.png)
+![image-20240910182909130](https://github.com/lvlebin2876587146/picx-images-hosting/raw/master/20240910/image-20240910182909130.54xplkzedq.webp)
 
 记得点击star
 
